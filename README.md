@@ -25,19 +25,39 @@ For the last project in this term our teacher briefed us with a short prasentati
 
 - The viewer should activate the motor poster passively. No touch, no obvious buttons.      
 
-So is started to by electronic scrap from 
+So is started to buy electronic scrap from my junk dealer around the corner while I sketched up my first motor poster ideas:
+
+![](images/2015_09_28_BIlder_Github_1920x1080.png)
+
+The cloaking devices is an optical trick. When looking through a group of magnifying glasses, objects placed between them, will partly disappear. When the viewer approaches to that device the magnifying glasses stop on the same height.
+
+[Link cloaking device](http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/ )  
+
+
+![](images/2015_09_28_BIlder_Github_1920x10802.png)
+
+The next idea was a device that constantly drips paint on a rotating paper. The closer the viewer comes to the device, the faster the plate rotates.
+
+![](images/2015_09_28_BIlder_Github_1920x10804.png)
+
+The chladni plate is a metal plate that gets sand on it. Through vibration the sand starts to get shaped in specific pattern.       
+
+![](images/2015_09_28_BIlder_Github_1920x10805.png)
+The viewers silhouette and movement will be mirrored by a led matrix.   
+
+![](images/2015_09_28_BIlder_Github_1920x10806.png)
+Etch a sketch
+
+
+![](images/2015_09_28_BIlder_Github_1920x10807.png)
+The pan flute device is a device that follows the movement of the viewer and and plays  
+
+
+##Dependencies  
 
 The main hardware we had to use was the arduino board. A micro controller that is able to drive small stepper motors, led´s and other electronic components.
 
 
-This is the part where you explain what is needed beforehand to run your project. You can add unordered list with hypens `-` or asteriks `*`.  
-
-- Something in a list unordered
-- Something else  
-* something with an asteriks  
-
-
-##Dependencies  
 
 In the dependencies section you can tell the reader what your project relies on. e.g if you are using Python you could write which modules. Or on the Raspberry Pi it would be the packages. Below you see an ordered list.  
 
