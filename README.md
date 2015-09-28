@@ -41,8 +41,7 @@ The next idea was a device that constantly drips paint on a rotating paper. The 
 
 ###The chladni plate
 ![](images/2015_09_28_BIlder_Github_1920x10804.png)
-
-The chladni plate is a metal plate that gets sand on it. Through vibration the sand starts to get shaped in specific pattern.       
+The chladni device is a sand covered metal plate that makes frequnencies visible through vibration. Depending on which frequency, the sands starts to create certain pattern.         
 
 ###The led mirror
 ![](images/2015_09_28_BIlder_Github_1920x10805.png)
