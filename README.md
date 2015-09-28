@@ -2,8 +2,8 @@ README
 ======
 
 
-> Any sufficiently advanced technology is indistinguishable from magic.  
-> [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)
+> “It's not how much we give but how much love we put into giving.”   
+> [Mother Teresa](https://en.wikipedia.org/wiki/Mother_Teresa)
 
 ##Abstract:  
 
@@ -99,5 +99,3 @@ And don't forget the license!
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
     TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
     0. You just DO WHAT THE FUCK YOU WANT TO.
-
-
