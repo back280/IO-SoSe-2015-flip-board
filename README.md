@@ -30,7 +30,7 @@ So is started to buy electronic scrap from my junk dealer around the corner whil
 ###The cloaking device
 ![](images/2015_09_28_BIlder_Github_1920x1080.png)
 
-The cloaking devices is an optical trick. When looking through a group of magnifying glasses, objects placed between them, will partly disappear. When the viewer approaches to the device the magnifying glasses stop on the same height.[Link cloaking device](http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/ )  
+The cloaking devices is an optical trick. When looking through a group of magnifying glasses, objects placed between them, will partly disappear. When the viewer approaches to the device the magnifying glasses stop on the same height. [Link cloaking device](http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/ )  
 
 ###The painter plate
 ![](images/2015_09_28_BIlder_Github_1920x10802.png)
@@ -50,7 +50,7 @@ The etching device will follow viewers movement.
 
 ###The pan flute
 ![](images/2015_09_28_BIlder_Github_1920x10807.png)
-The pan flute device is a device that follows the movement of the viewer and and plays  
+The last idea was a pan flute that either plays certain tones depending on the viewers position or plays a melodie after the viewer left the device.    
 
 
 ##Dependencies  
