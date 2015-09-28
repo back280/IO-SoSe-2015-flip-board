@@ -13,7 +13,7 @@ Werkstattpraxis.
 
 ##Prerequisite  
 
-For the last project in this term our teacher briefed us with a short presentation and introduced us into the basic idea:
+For the last project in this term our teacher briefed us with a short presentation and introduced us to the basic ideas:
 
 - Find electrical scrap and hack it.
 
@@ -21,7 +21,7 @@ For the last project in this term our teacher briefed us with a short presentati
 
 - Translate the human computer interaction (HCI) technically.
 
-- Find a way to hide the electronic devises that drives the motor poster.
+- Find a way to hide the electronic components/devices that drives the motor poster.
 
 - The viewer should activate the motor poster passively. No touch, no obvious buttons.      
 
@@ -38,15 +38,15 @@ The next idea was a device that constantly drips paint on a rotating paper. The 
 
 ###The chladni plate
 ![](images/2015_09_28_BIlder_Github_1920x10804.png)
-The chladni device is a sand covered metal plate that makes frequnencies visible through vibration. Depending on which frequency, the sands starts to create certain pattern. The closer the viewer approaches, the higher the frequency.       
+The chladni device is a sand covered metal plate that makes frequencies visible through vibration. Depending on the frequency response, the sands starts to create certain pattern. The closer the viewer approaches, the higher the frequency.       
 
 ###The led mirror
 ![](images/2015_09_28_BIlder_Github_1920x10805.png)
 The viewers silhouette and movement will be mirrored by a led matrix.   
 
-###Ecth a sketch
+###Etch a sketch
 ![](images/2015_09_28_BIlder_Github_1920x10806.png)
-The etching device will follow viewers movement.
+The sketch device will follow the viewers movement (left, right, far, near) and etch it on a board.
 
 ###The pan flute
 ![](images/2015_09_28_BIlder_Github_1920x10807.png)
@@ -57,14 +57,9 @@ After a short presentation it turns out that the pan flute device was the one I 
 [![](images/2015_09_28_BIlder_Github_1920x10808.png)](https://vimeo.com/140693150)
 _Password: Pan_
 
-The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to take. This turned out to be the most problematic part. I couldn´t find a generator that had enough power and at the same time runs almost noiseless. I bought compressed air in a bottle, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar air pressure, when I decided to reconsider my motor poster idea.
+The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to take. This turned out to be the most problematic part. I couldn´t find a generator that had enough power and at the same time runs silently/noiseless. I bought compressed air in a bottle, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar air pressure, when I decided to reconsider my motor poster idea.
 
 After searching the web for new ideas I end up on this page by accident: [www.007james.com](http://www.007james.com/gadgets/aston_martin_db5.php). I was fascinated by Bonds license flip plate Q installed in his Aston Martin and decided to work with it. So I came up with the idea of a flip board that tempts the viewer to grab at something lying on the the board, e.g money or sweets.    
-
-
-
-
-
 
 
 ##Dependencies  
