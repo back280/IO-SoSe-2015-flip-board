@@ -13,8 +13,22 @@ Werkstattpraxis.
 
 ##Prerequisite  
 
->something that is required in advance; "Latin was a prerequisite for admission"  
-> - Terminology
+For the last project in this term our teacher briefed us with a short prasentation and introduced us into the basic idea:
+
+- Find electrical scrap and hack it.
+
+- Tell a story, a joke or make a statement on a moved, electrical poster
+
+- Translate the human computer interaction (HCI) technically.
+
+- Find a way to hide the electronic devises that drives the motor poster.
+
+- The viewer should activate the motor poster passively. No touch, no obvious buttons.      
+
+So is started to by electronic scrap from 
+
+The main hardware we had to use was the arduino board. A micro controller that is able to drive small stepper motors, led´s and other electronic components.
+
 
 This is the part where you explain what is needed beforehand to run your project. You can add unordered list with hypens `-` or asteriks `*`.  
 
