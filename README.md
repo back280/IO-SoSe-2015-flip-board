@@ -13,7 +13,7 @@ Werkstattpraxis.
 
 ##Prerequisite  
 
-For the last project in this term our teacher briefed us with a short prasentation and introduced us into the basic idea:
+For the last project in this term our teacher briefed us with a short presentation and introduced us into the basic idea:
 
 - Find electrical scrap and hack it.
 
@@ -54,12 +54,12 @@ The last idea was a pan flute that either plays certain tones depending on the v
 
 After a short presentation it turns out that the pan flute device was the one I should work on. Next we had to create a paper dummy video.
 
-![](images/![](images/2015_09_28_BIlder_Github_1920x10807.png))
+[![](images/2015_09_28_BIlder_Github_1920x10808.png)](https://vimeo.com/140693150)
+_Password: Pan_
+
+The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to take. This turned out the most problematic part. I couldn´t find a generator that has enough power and at the same time runs almost noiseless. I bought compressed air in a bottle, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar, when I decided to reconsider my motor poster.
 
 
-
-
-The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to do. This turned out the most problematic part. I couldn´t find a generator that has enough power and at the same time runs almost noiseless. I bought bottled compressed air, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar of air pressure, when I decided to reconsider my motor poster.         
 
 
 ##Dependencies  
