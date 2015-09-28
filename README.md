@@ -52,7 +52,6 @@ The etching device will follow viewers movement.
 ![](images/2015_09_28_BIlder_Github_1920x10807.png)
 The last idea was a pan flute that either plays certain tones depending on the viewers position or plays a melodie after the viewer left the device.    
 
-
 ##Dependencies  
 
 The main hardware we had to use was the arduino board. A micro controller that is able to drive small stepper motors, led´s and other electronic components.
