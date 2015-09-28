@@ -34,11 +34,11 @@ The cloaking devices is an optical trick. When looking through a group of magnif
 
 ###The painter plate
 ![](images/2015_09_28_BIlder_Github_1920x10802.png)
-The next idea was a device that constantly drips paint on a rotating paper. The closer the viewer comes to the device, the faster the plate rotates.
+The next idea was a device that constantly drips paint on a rotating paper. The closer the viewer approaches, the faster the plate rotates.
 
 ###The chladni plate
 ![](images/2015_09_28_BIlder_Github_1920x10804.png)
-The chladni device is a sand covered metal plate that makes frequnencies visible through vibration. Depending on which frequency, the sands starts to create certain pattern.         
+The chladni device is a sand covered metal plate that makes frequnencies visible through vibration. Depending on which frequency, the sands starts to create certain pattern. The closer the viewer approaches, the higher the frequency.       
 
 ###The led mirror
 ![](images/2015_09_28_BIlder_Github_1920x10805.png)
@@ -46,7 +46,7 @@ The viewers silhouette and movement will be mirrored by a led matrix.
 
 ###Ecth a sketch
 ![](images/2015_09_28_BIlder_Github_1920x10806.png)
-Etch a sketch
+The etching device will follow viewers movement.
 
 ###The pan flute
 ![](images/2015_09_28_BIlder_Github_1920x10807.png)
