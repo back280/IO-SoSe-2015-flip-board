@@ -5,18 +5,11 @@ README
 > “It's not how much we give but how much love we put into giving.”   
 > [Mother Teresa](https://en.wikipedia.org/wiki/Mother_Teresa)
 
-##Abstract:  
+##Abstract motor poster:  
 
-A layout for what shoulde be an a repo  
-This is an example on how to write markdown and what should be in a readme/repo for getting a good grade in the seminar [Input Output (Eingabe Ausgabe) Fundamentals of process-oriented design.](https://interface.fh-potsdam.de/eingabe-ausgabe/) @FH-Potsdam. You can write things in __bold__ and _italic_. You can add links like seen before. You will have to write your documentation in english. To add an paragraph just add two whitespaces like so -->  
-I suggest you use the [Atom Editor](https://atom.io/) with the [Markdown Preview package](https://atom.io/packages/markdown-preview) installed. To learn more about markdown go to [remarq.io "five minutes to markdown mastery"](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/), [daringfireball.net "markdown"](http://daringfireball.net/projects/markdown/) or [markdowntutorial.com](http://markdowntutorial.com/).
+With this documentation I would like to present the results of our last project developed during the summer term at FHP tutored by Fabian Morón Zirfas: 11EG-B Elementares Gestalten - Basics 1.012 Grundlagen Fläche und Struktur
+Werkstattpraxis.
 
-
-![You can add images](images/canvas.png)  
-![and also gif animations](images/anim.gif)  
-![it is also possible to add images from external sources](https://octodex.github.com/images/octobiwan.jpg)  
-
-You can not add videos directly. These will have to be on vimeo.com or youtube.com.
 
 ##Prerequisite  
 
