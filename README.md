@@ -52,9 +52,14 @@ The etching device will follow viewers movement.
 ![](images/2015_09_28_BIlder_Github_1920x10807.png)
 The last idea was a pan flute that either plays certain tones depending on the viewers position or plays a melodie after the viewer left the device.    
 
-After a short presentation it turns out that the pan flute device was the one I should work on.   
+After a short presentation it turns out that the pan flute device was the one I should work on. Next we had to create a paper dummy video.
 
-The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to do. This turned out the most problematic part. I couldn´t find a generator that has enough power and at the same time runs almost noiseless. I bought bottled compressed air, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar of air pressure, when I decided to         
+![](images/![](images/2015_09_28_BIlder_Github_1920x10807.png))
+
+
+
+
+The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to do. This turned out the most problematic part. I couldn´t find a generator that has enough power and at the same time runs almost noiseless. I bought bottled compressed air, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar of air pressure, when I decided to reconsider my motor poster.         
 
 
 ##Dependencies  
