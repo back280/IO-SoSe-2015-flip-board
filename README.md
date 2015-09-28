@@ -27,28 +27,32 @@ For the last project in this term our teacher briefed us with a short prasentati
 
 So is started to buy electronic scrap from my junk dealer around the corner while I sketched up my first motor poster ideas:
 
+###The cloaking device
 ![](images/2015_09_28_BIlder_Github_1920x1080.png)
 
 The cloaking devices is an optical trick. When looking through a group of magnifying glasses, objects placed between them, will partly disappear. When the viewer approaches to that device the magnifying glasses stop on the same height.
 
 [Link cloaking device](http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/ )  
 
-
+###The painter plate
 ![](images/2015_09_28_BIlder_Github_1920x10802.png)
 
 The next idea was a device that constantly drips paint on a rotating paper. The closer the viewer comes to the device, the faster the plate rotates.
 
+###The chladni plate
 ![](images/2015_09_28_BIlder_Github_1920x10804.png)
 
 The chladni plate is a metal plate that gets sand on it. Through vibration the sand starts to get shaped in specific pattern.       
 
+###The led mirror
 ![](images/2015_09_28_BIlder_Github_1920x10805.png)
 The viewers silhouette and movement will be mirrored by a led matrix.   
 
+###Ecth a sketch
 ![](images/2015_09_28_BIlder_Github_1920x10806.png)
 Etch a sketch
 
-
+###The pan flute
 ![](images/2015_09_28_BIlder_Github_1920x10807.png)
 The pan flute device is a device that follows the movement of the viewer and and plays  
 
