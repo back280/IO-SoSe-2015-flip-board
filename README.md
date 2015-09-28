@@ -30,7 +30,7 @@ So is started to buy electronic scrap from my junk dealer around the corner whil
 ###The cloaking device
 ![](images/2015_09_28_BIlder_Github_1920x1080.png)
 
-The cloaking devices is an optical trick. When looking through a group of magnifying glasses, objects placed between them, will partly disappear. When the viewer approaches to the device the magnifying glasses stop on the same height. [Link cloaking device](http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/ )  
+The cloaking devices is an optical trick. When looking through a group of magnifying glasses, objects placed between them, will partly disappear. When the viewer approaches to the device the magnifying glasses stop on the same height. [University of Rochester ](http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/ )  
 
 ###The painter plate
 ![](images/2015_09_28_BIlder_Github_1920x10802.png)
@@ -57,7 +57,7 @@ After a short presentation it turns out that the pan flute device was the one I 
 [![](images/2015_09_28_BIlder_Github_1920x10808.png)](https://vimeo.com/140693150)
 _Password: Pan_
 
-The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to take. This turned out the most problematic part. I couldn´t find a generator that has enough power and at the same time runs almost noiseless. I bought compressed air in a bottle, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar, when I decided to reconsider my motor poster.
+The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to take. This turned out to be the most problematic part. I couldn´t find a generator that had enough power and at the same time runs almost noiseless. I bought compressed air in a bottle, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar air pressure, when I decided to reconsider my motor poster idea.
 
 
 
