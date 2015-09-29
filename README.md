@@ -203,15 +203,12 @@ _Password: Flip_
 
 ##Installation  
 
-Here you tell what should be done to install your project. You could tell him to clone it with git and run some install script or just provide all the code to install all packages on a Raspberry Pi. This should be done in a code block if it is code. You can write code inline by enclosing it in ticks \` ` like this` or you can use 4 whitespaces like in the example below.  
-
-    git clone https://github.com/fabiantheblind/README.git
-    cd README
+Clone the repository on your Desktop or download the source code on your hard drive.  
 
 
 ##Usage  
 
-Just open Ardunio and transfere the script on your board.   
+Just open Ardunio and load the script on your board.   
 
 ##Realted Works  
 
