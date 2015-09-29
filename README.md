@@ -106,7 +106,7 @@ The main hardware we had to use was the Arduino board. A micro controller that i
 
 Finding the right driver for my stepper motor was the first problem. So I started experimenting with the H-Bridge driver, but unfortunately the device got extremely hot. So I switched over to the Schmalzhaus driver. An well documented, convenient and easy to use device. [Schmalzhaus Easydriver documentation](http://www.schmalzhaus.com/EasyDriver/)
 
-Here is the Arduino sketch:  
+###The Fritzing sketch
 
 ![](images/2015_09_28_BIlder_Github_1920x108023.png)   
       <!---
@@ -192,7 +192,7 @@ Here is the Arduino sketch:
         digitalWrite(smEnablePin, HIGH); //Disbales the motor, so it can rest untill the next time it is called uppond
         digitalWrite(smSleepPin, LOW); //Enables sleep pin
       }-->
-      
+
 - Flip board Code
 - video usage
 
