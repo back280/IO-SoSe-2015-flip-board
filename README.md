@@ -109,6 +109,7 @@ Finding the right driver for my stepper motor was the first problem. So I starte
 ###The Fritzing sketch
 
 ![](images/2015_09_28_BIlder_Github_1920x108023.png)   
+
 ###The arduino code
 
     #define BUTTONPIN 4
@@ -194,19 +195,11 @@ Finding the right driver for my stepper motor was the first problem. So I starte
       digitalWrite(smSleepPin, LOW); //Enables sleep pin
     }
 
-![](images/2015_09_28_BIlder_Github_1920x108020.png)
-
-FINAL RESULT.
 
 ###Video flip board   
-[![](2015_09_28_BIlder_Github_1920x108024.png)](https://vimeo.com/140693150)
+[![](images/2015_09_28_BIlder_Github_1920x108024.png)](https://vimeo.com/140819453)
+_Password: Flip_
 
-
-##Dependencies
-In the dependencies section you can tell the reader what your project relies on. e.g if you are using Python you could write which modules. Or on the Raspberry Pi it would be the packages. Below you see an ordered list.
-
-1. Ordered list  
-2. more things  
 
 ##Installation  
 
@@ -215,18 +208,14 @@ Here you tell what should be done to install your project. You could tell him to
     git clone https://github.com/fabiantheblind/README.git
     cd README
 
-Or for example:  
-
-    sudo apt-get update && sudo apt-get install python-dev python-rpi.gpio
 
 ##Usage  
 
-Now here you actually explain how to use your project. This could be some code or maybe just something like hit "Run" in processing.  
-
+Just open Ardunio and transfere the script on your board.   
 
 ##Realted Works  
 
-List some related works an inspiration if you have some.  
+Here are my latest projects.
 
 - [Slime mold project](https://github.com/back280/IO-SoSe-2015-fox-moulder)
 - [Algorythm project](http://https://github.com/back280/IO-SoSe-2015-ALGORYTHM-README)  
