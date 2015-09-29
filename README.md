@@ -61,7 +61,7 @@ The main problem was to generate enough air pressure to play the flute. So looki
 
 After searching the web for new ideas I end up on this page by accident: [www.007james.com](http://www.007james.com/gadgets/aston_martin_db5.php). I was fascinated by Bonds license flip plate Q installed in his Aston Martin and decided to work with it. So I came up with the idea of a (flip board) device that tempts the viewer to grab at something, e.g money or sweets, lying on a board. At the moment, when the viewer is about to grab, the board flips and unveils a coin slot and a text, with a request/demand for donation says: "Giving feels better than receiving."
 
-![](images/2015_09_28_BIlder_Github_1920x10808_flip_board.png)
+![](images/2015_09_28_BIlder_Github_1920x10809.png)
 
 I started to make first prototype and looked up for fitting components to buy.
 
@@ -69,18 +69,40 @@ I started to make first prototype and looked up for fitting components to buy.
 - A fitting case made of MDF.
 - A Sensor that recognizes the viewers movement.
 
-![](images/canvas.png)
+![](images/2015_09_28_BIlder_Github_1920x108010.png)
 
-![](images/canvas.png)
+![](images/2015_09_28_BIlder_Github_1920x108011.png)
 
-- Flip board Code
-- flip board video usage
+![](images/2015_09_28_BIlder_Github_1920x108012.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108013.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108014.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108015.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108016.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108017.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108018.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108019.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108020.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108021.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108022.png)
+
+At the beginning I wanted to create a single case just like the paper dummy shows above. Later on I came to the conclusion that attaching the stepper motor externally is much easier.      
 
 ##Dependencies  
 
-The main hardware we had to use was the arduino board. A micro controller that is able to drive small stepper motors, led´s and other electronic components.
+The main hardware we had to use was the Arduino board. A micro controller that is able to drive small stepper motors, led´s and other electronic components.
 
-
+- Flip board Code
+- flip board video usage
 
 In the dependencies section you can tell the reader what your project relies on. e.g if you are using Python you could write which modules. Or on the Raspberry Pi it would be the packages. Below you see an ordered list.  
 
@@ -102,25 +124,6 @@ Or for example:
 
 Now here you actually explain how to use your project. This could be some code or maybe just omething like hit "Run" in processing.  
 
-##Something else  
-
-Maybe you have to say something else. This could go here. Did I mention that you can also declare headings? The headings are like in html. You can write them like this:  
-
-    # Heading 1
-    ## Heading 2
-    ### Heading 3
-    #### Heading 4
-    ##### Heading 5
-    ###### Heading 6
-
-This will convert to:  
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
 
 ##Realted Works  
 
@@ -132,9 +135,6 @@ List some related works an inspiration if you have some.
 
 Give thanks to those whe deserve it.  
 
-##Contact  
-
-Add a contact. Write me an email <me@example.com> or contact me on twitter @thisisme  
 
 ##License  
 
