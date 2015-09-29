@@ -59,9 +59,19 @@ _Password: Pan_
 
 The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to take. This turned out to be the most problematic part. I couldn´t find a generator that had enough power and at the same time runs silently/noiseless. I bought compressed air in a bottle, a 12V mini compressor and was about to order a lego pneumatic generator that runs with 12V batteries and provides about three bar air pressure, when I decided to reconsider my motor poster idea.
 
-After searching the web for new ideas I end up on this page by accident: [www.007james.com](http://www.007james.com/gadgets/aston_martin_db5.php). I was fascinated by Bonds license flip plate Q installed in his Aston Martin and decided to work with it. So I came up with the idea of a (flip board) device that tempts the viewer to grab at something lying on the the board, e.g money or sweets. At this moment, when the viewer is about to grab, the board flips and unveils a coin slot and a text, with a request/demand for donation.     
+After searching the web for new ideas I end up on this page by accident: [www.007james.com](http://www.007james.com/gadgets/aston_martin_db5.php). I was fascinated by Bonds license flip plate Q installed in his Aston Martin and decided to work with it. So I came up with the idea of a (flip board) device that tempts the viewer to grab at something, e.g money or sweets, lying on a board. At the moment, when the viewer is about to grab, the board flips and unveils a coin slot and a text, with a request/demand for donation says: "Giving feels better than receiving."
 
+![](images/canvas.png)
 
+I started to make first prototype and looked up for fitting components to buy.
+
+- I needed a stepper motor and a driver to rotate the board.
+- A fitting case made of MDF.
+- A Sensor that recognizes the viewers movement.
+
+![](images/canvas.png)
+
+![](images/canvas.png)
 
 - Flip board Code
 - flip board video usage
