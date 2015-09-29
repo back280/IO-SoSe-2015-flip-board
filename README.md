@@ -61,7 +61,7 @@ The main problem was to generate enough air pressure to play the flute. So looki
 
 After searching the web for new ideas I end up on this page by accident: [www.007james.com](http://www.007james.com/gadgets/aston_martin_db5.php). I was fascinated by Bonds license flip plate Q installed in his Aston Martin and decided to work with it. So I came up with the idea of a (flip board) device that tempts the viewer to grab at something, e.g money or sweets, lying on a board. At the moment, when the viewer is about to grab, the board flips and unveils a coin slot and a text, with a request/demand for donation says: "Giving feels better than receiving."
 
-![](images/canvas.png)
+![](images/2015_09_28_BIlder_Github_1920x10808_flip_board.png)
 
 I started to make first prototype and looked up for fitting components to buy.
 
