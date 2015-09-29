@@ -89,7 +89,7 @@ I started to make first prototype and looked up for fitting components to buy.
 
 ![](images/2015_09_28_BIlder_Github_1920x108019.png)
 
-![](images/2015_09_28_BIlder_Github_1920x108020.png)
+
 
 ![](images/2015_09_28_BIlder_Github_1920x108021.png)
 
@@ -97,9 +97,21 @@ I started to make first prototype and looked up for fitting components to buy.
 
 At the beginning I wanted to create a single case just like the paper dummy shows above. Later on I came to the conclusion that attaching the stepper motor externally is much easier.      
 
+
 ##Dependencies  
 
 The main hardware we had to use was the Arduino board. A micro controller that is able to drive small stepper motors, led´s and other electronic components.
+
+![](images/2015_09_28_BIlder_Github_1920x108020.png)
+
+The Main problem was to find a right driver for my stepper motor. So I started experimenting with the H-Bridge driver, but unfortunately the device got extremely hot. So I switched over to the Schmalzhaus driver. An well documented, convenient and easy to use device. [Schmalzhaus Easydriver](http://www.schmalzhaus.com/EasyDriver/)
+
+Here is the Arduino sketch:  
+
+
+
+
+![](images/2015_09_28_BIlder_Github_1920x108020.png)
 
 - Flip board Code
 - flip board video usage
