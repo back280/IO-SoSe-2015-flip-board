@@ -109,7 +109,7 @@ Finding the right driver for my stepper motor was the first problem. So I starte
 ###The Fritzing sketch
 
 ![](images/2015_09_28_BIlder_Github_1920x108023.png)   
-###The arduino code 
+###The arduino code
 
     #define BUTTONPIN 4
     #define BUTTONPIN2 5
@@ -194,10 +194,15 @@ Finding the right driver for my stepper motor was the first problem. So I starte
       digitalWrite(smSleepPin, LOW); //Enables sleep pin
     }
 
+![](images/2015_09_28_BIlder_Github_1920x108020.png)
 
-- Flip board Code
-- video usage
+FINAL RESULT.
 
+###Video flip board   
+[![](2015_09_28_BIlder_Github_1920x108024.png)](https://vimeo.com/140693150)
+
+
+##Dependencies
 In the dependencies section you can tell the reader what your project relies on. e.g if you are using Python you could write which modules. Or on the Raspberry Pi it would be the packages. Below you see an ordered list.
 
 1. Ordered list  
