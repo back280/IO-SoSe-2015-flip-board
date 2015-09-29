@@ -108,12 +108,8 @@ Finding the right driver for my stepper motor was the first problem. So I starte
 
 Here is the Arduino sketch:  
 
-![](images/2015_09_28_BIlder_Github_1920x108023.png)
-
-      //http://www.google.de/imgres?imgurl=http%3A%2F%2Fwww.norwegiancreations.com%2Fwp-content%2Fuploads%2F2014%2F12%2FArduino-tutorial-Stepper-Tutorial1.jpg&imgrefurl=http%3A%2F%2Fwww.norwegiancreations.com%2F2014%2F12%2Farduino-tutorial-stepper-motor-with-easydriver%2F&h=1157&w=1524&tbnid=wayeocomBmuSQM%3A&zoom=1&docid=R8DRjTtWG323ZM&ei=DlORVc7sM4KrswG4o4TwCQ&tbm=isch&iact=rc&uact=3&dur=2780&page=1&start=0&ndsp=14&ved=0CDAQrQMwBQ
-      //http://popovic.info/html/arduino/arduinoUno_1.html
-      //http://www.phidgets.com/products.php?product_id=3521
-      //
+![](images/2015_09_28_BIlder_Github_1920x108023.png)   
+      <!---
       #define BUTTONPIN 4
       #define BUTTONPIN2 5
       int counter = 0;
@@ -195,8 +191,8 @@ Here is the Arduino sketch:
         }
         digitalWrite(smEnablePin, HIGH); //Disbales the motor, so it can rest untill the next time it is called uppond
         digitalWrite(smSleepPin, LOW); //Enables sleep pin
-      }
-
+      }-->
+      
 - Flip board Code
 - video usage
 
