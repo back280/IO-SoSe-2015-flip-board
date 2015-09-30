@@ -205,6 +205,7 @@ _Password: Flip_
 
 Clone the repository on your Desktop or download the source code on your hard drive.  
 
+[Get the code](https://github.com/back280/IO-SoSe-2015-flip-board/tree/master/code/sketch_jul05a_schmalzhaus_sensor_sleeppin)
 
 ##Usage  
 
