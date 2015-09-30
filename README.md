@@ -76,23 +76,15 @@ I started to make first prototype and looked up for fitting components to buy.
 
 ![](images/2015_09_28_BIlder_Github_1920x108012.png)
 
-![](images/2015_09_28_BIlder_Github_1920x108013.png)
-
 ![](images/2015_09_28_BIlder_Github_1920x108014.png)
-
-![](images/2015_09_28_BIlder_Github_1920x108015.png)
-
-![](images/2015_09_28_BIlder_Github_1920x108016.png)
-
-![](images/2015_09_28_BIlder_Github_1920x108017.png)
-
-![](images/2015_09_28_BIlder_Github_1920x108018.png)
-
-![](images/2015_09_28_BIlder_Github_1920x108019.png)
 
 ![](images/2015_09_28_BIlder_Github_1920x108021.png)
 
 ![](images/2015_09_28_BIlder_Github_1920x108022.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108026.png)
+
+![](images/2015_09_28_BIlder_Github_1920x108025.png)
 
 At the beginning I wanted to create a single case just like the paper dummy shows above. Later on I came to the conclusion that attaching the stepper motor externally is much easier.      
 
