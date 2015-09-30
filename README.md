@@ -203,8 +203,6 @@ The Ardunio code you will need to run all components.
 _The final flip board in action. Password: Flip_
 
 
-
-
 ## Installation  
 
 Clone the repository on your Desktop or download the source code on your hard drive.  
