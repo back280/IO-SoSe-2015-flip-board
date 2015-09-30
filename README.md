@@ -82,13 +82,13 @@ I started to make first prototype and looked up for fitting components to buy.
 
 ![](images/2015_09_28_BIlder_Github_1920x108022.png)
 
+At the beginning I wanted to create a single case just like the paper dummy shows above. Later on I came to the conclusion that attaching the stepper motor externally is much easier.
+
+#### Final impressions and flip board video 
+
 ![](images/beauty-shot-1920x1080.png)
 
 ![](images/2015_09_28_BIlder_Github_1920x108025.png)
-
-At the beginning I wanted to create a single case just like the paper dummy shows above. Later on I came to the conclusion that attaching the stepper motor externally is much easier.
-
-#### Video flip board
 
 [![](images/2015_09_28_BIlder_Github_1920x108024.png)](https://vimeo.com/140819453)
 _The final flip board in action. Password: Flip_
