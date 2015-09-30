@@ -89,8 +89,6 @@ I started to make first prototype and looked up for fitting components to buy.
 
 ![](images/2015_09_28_BIlder_Github_1920x108019.png)
 
-
-
 ![](images/2015_09_28_BIlder_Github_1920x108021.png)
 
 ![](images/2015_09_28_BIlder_Github_1920x108022.png)
@@ -106,11 +104,14 @@ The main hardware we had to use was the Arduino board. A micro controller that i
 
 Finding the right driver for my stepper motor was the first problem. So I started experimenting with the H-Bridge driver, but unfortunately the device got extremely hot. So I switched over to the Schmalzhaus driver. An well documented, convenient and easy to use device. [Schmalzhaus Easydriver documentation](http://www.schmalzhaus.com/EasyDriver/)
 
-###The Fritzing sketch
+###The Fritzing sketch   
 
 ![](images/2015_09_28_BIlder_Github_1920x108023.png)   
+_This is the final switching circuit that drives the flip board._
 
 ###The arduino code
+
+The Ardunio code you will need to run all components.
 
     #define BUTTONPIN 4
     #define BUTTONPIN2 5
@@ -196,9 +197,12 @@ Finding the right driver for my stepper motor was the first problem. So I starte
     }
 
 
-###Video flip board   
+###Video flip board
+
 [![](images/2015_09_28_BIlder_Github_1920x108024.png)](https://vimeo.com/140819453)
-_Password: Flip_
+_The final flip board in action. Password: Flip_
+
+
 
 
 ##Installation  
