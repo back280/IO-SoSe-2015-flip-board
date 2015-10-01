@@ -206,7 +206,7 @@ Just open Ardunio and load the script on your board.
 Here are my latest projects.
 
 - [Slime mold project](https://github.com/back280/IO-SoSe-2015-fox-moulder)
-- [Algorythm project](https://github.com/back280/IO-SoSe-2015-algorythm)  
+- [Algorythm project](https://github.com/back280/IO-SoSe-2015-algorithm)  
 
 ## Thanks  
 
