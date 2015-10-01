@@ -37,7 +37,7 @@ The next idea was a device that constantly drips paint on a rotating paper. The 
 
 #### The chladni plate
 ![](images/2015_09_28_BIlder_Github_1920x10804.png)
-The chladni device is a sand covered metal plate that makes frequencies visible through vibration. Depending on the frequency response, the sands starts to create certain pattern. The closer the viewer approaches, the higher the frequency.       
+The chladni device is a sand covered metal plate that makes frequencies visible through vibration. Depending on the frequency range, the sands starts to create certain pattern. The closer the viewer approaches, the higher the frequency.       
 
 #### The led mirror
 ![](images/2015_09_28_BIlder_Github_1920x10805.png)
@@ -84,7 +84,7 @@ I started to make first prototype and looked up for fitting components to buy.
 
 At the beginning I wanted to create a single case just like the paper dummy shows above. Later on I came to the conclusion that attaching the stepper motor externally is much easier.
 
-#### Final impressions and flip board video 
+#### Final impressions and flip board video
 
 ![](images/beauty-shot-1920x1080.png)
 
