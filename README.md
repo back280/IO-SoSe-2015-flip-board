@@ -29,7 +29,7 @@ So I started to buy electronic scrap from my junk dealer around the corner while
 #### The cloaking device
 ![](images/2015_09_28_BIlder_Github_1920x1080.png)
 
-The cloaking devices is an optical trick. When looking through a group of magnifying glasses, objects placed between them, will partly disappear by bending the light. When the viewer approaches to the device the up and down moving magnifying glasses would stop on the same height. [Link University of Rochester ](http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/ )  
+The cloaking devices is an optical illusion. When looking through a group of magnifying glasses, objects placed between them, will partly disappear by bending the light. When the viewer approaches to the device the up and down moving magnifying glasses would stop on the same level. [Link University of Rochester ](http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/ )  
 
 #### The painter plate
 ![](images/2015_09_28_BIlder_Github_1920x10802.png)
@@ -37,11 +37,11 @@ The next idea was a device that constantly drips paint on a rotating paper. The 
 
 #### The chladni plate
 ![](images/2015_09_28_BIlder_Github_1920x10804.png)
-The chladni device is a sand covered metal plate that makes frequencies visible through vibration. Depending on the frequency range, the sands starts to create certain pattern. The closer the viewer approaches, the higher the frequency.       
+The chladni device is a sand covered metal plate that makes sound frequencies visible through vibration. Depending on the frequency range, the sand starts to create certain pattern. The closer the viewer approaches, the higher the frequency.       
 
 #### The led mirror
 ![](images/2015_09_28_BIlder_Github_1920x10805.png)
-The viewers silhouette and movement will be mirrored by a led matrix.   
+The viewers silhouette and movement will be mirrored by a LED matrix.   
 
 #### Etch a sketch
 ![](images/2015_09_28_BIlder_Github_1920x10806.png)
@@ -56,13 +56,13 @@ After a short presentation it turns out that the pan flute device was the one I 
 [![](images/2015_09_28_BIlder_Github_1920x10808.png)](https://vimeo.com/140693150)
 _Password: Pan_
 
-The main problem was to generate enough air pressure to play the flute. So looking up for a generator or compressor was the first step I had to take. This turned out to be the most problematic part. I couldn´t find a generator that had enough power and at the same time runs almost silently. I bought compressed air, a 12V mini compressor and was about to order a lego pneumatic generator providing about three bar air pressure, when I decided to reconsider my motor poster idea.
+The main problem was to generate enough air pressure to play the flute. Looking for a generator or compressor was the first step I had to take. This turned out to be the most difficult part. I couldn´t find a generator that had enough power and runs almost silently at the same. I bought compressed air, a 12V mini compressor and was about to order a lego pneumatic generator providing about three bar air pressure, when I decided to reconsider my motor poster idea.
 
-After searching the web for new ideas I end up on this page by accident: [www.007james.com](http://www.007james.com/gadgets/aston_martin_db5.php). I was fascinated by Bonds license flip plate Q installed in his Aston Martin and decided to work with it. So I came up with the idea of a flip board device that tempts the viewer to grab at something, e.g money or sweets, lying on a board. At the moment, when the viewer is about to grab, the board flips and unveils a coin slot and a text, with a demand for donation saying: "Giving feels better than receiving."
+After searching online for new ideas I ended up on this website by accident: [www.007james.com](http://www.007james.com/gadgets/aston_martin_db5.php). I was inspired by Bonds license flip plate Q installed in his Aston Martin and decided to work with it. Finally I came up with the idea of a flip board device that tempts the viewer to grab at something, e.g money or sweets, lying on a board. At the moment, when the viewer is about to grab, the board flips and unveils a coin slot and a text, with a demand for donation saying: "Giving feels better than receiving."
 
 ![](images/2015_09_28_BIlder_Github_1920x10809.png)
 
-I started to make first prototype and looked up for fitting components to buy.
+I started to make several first prototypes and looked for fitting components to buy.
 
 - I needed a stepper motor and a driver to rotate the board.
 - A fitting case made of MDF.
@@ -82,7 +82,7 @@ I started to make first prototype and looked up for fitting components to buy.
 
 ![](images/2015_09_28_BIlder_Github_1920x108022.png)
 
-At the beginning I wanted to create a single case just like the paper dummy shows above. Later on I came to the conclusion that attaching the stepper motor externally is much easier.
+At the beginning I wanted to create a single case just like the paper dummy shows above. Later on I draw the conclusion that it is much easier to attach the stepper motor externally.
 
 #### Final impressions and flip board video
 
@@ -96,11 +96,11 @@ _The final flip board in action. Password: Flip_
 
 ## Dependencies  
 
-The main hardware we had to use was the Arduino board. A micro controller that is able to drive small stepper motors, led´s and other electronic components.
+The core hardware we had to use was the Arduino board. A micro controller that is able to drive small stepper motors, LED´s and other electronic components.
 
 ![](images/2015_09_28_BIlder_Github_1920x108020.png)
 
-Finding the right driver for my stepper motor was the first problem. So I started experimenting with the H-Bridge driver, but unfortunately the device got extremely hot. Therefore I switched over to the Schmalzhaus driver. An well documented, convenient and easy to use device. [Schmalzhaus Easydriver documentation](http://www.schmalzhaus.com/EasyDriver/)
+Another problem was to find the right driver for my stepper motor. I started experimenting with the H-Bridge driver, but unfortunately the device got extremely hot. Therefore I switched over to the Schmalzhaus driver. An well documented, convenient and easy to use device. [Schmalzhaus Easydriver documentation](http://www.schmalzhaus.com/EasyDriver/)
 
 #### The Fritzing sketch   
 
@@ -109,7 +109,7 @@ This is the final switching circuit that drives the flip board.
 
 #### The arduino code
 
-The Ardunio code you will need to run all components.
+This is the Ardunio code you need to run all components.
 
     #define BUTTONPIN 4   //defining first contactbutton on pin four
     #define BUTTONPIN2 5  //defining second contactbutton on pin five
@@ -194,7 +194,7 @@ The Ardunio code you will need to run all components.
     }
 ## Installation  
 
-Clone the repository on your Desktop or download the source code on your hard drive.  
+Clone the repository on your desktop or download the source code on your hard drive.  
 
 [Get the code](https://github.com/back280/IO-SoSe-2015-flip-board/tree/master/code/sketch_jul05a_schmalzhaus_sensor_sleeppin)
 
